@@ -58,7 +58,7 @@ elif options == "Home" :
 
 elif options == "About Us" :
      # st.image("")
-     st.Title("About us")
+     st.title("About us")
 
 elif options == "Model" :
      st.title('News Summarizer Tool')
